@@ -25,10 +25,26 @@
     [x] Multiplicacao     *
     [x] Divisao           /
     [x] Exponenciacao     **
-    [x] Resto da divisao %
+    [x] Resto da divisao  %
     [x] Procedencia de operadores
         [x] Multiplicacao
         [x] Divisao
         [x] Adicao
         [x] Subtracao
     [x] Biblioteca Math
+
+## Aula 04 - Operadores Booleanos
+    [x]Operadores Booleanos
+        [x] Igualdade: == (ou ===)
+        [x] Diferente: != (!==)
+        [x] Maior que: >
+        [x] Maior ou igual: >=
+        [x] Menor que: <
+        [x] Menor ou igual: <=
+
+    [x] Conjuncões logicas
+        [x] AND ou &&
+        [x] OR ou ||
+        [x] Not ou !
+
+
