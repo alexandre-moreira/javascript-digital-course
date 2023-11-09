@@ -47,4 +47,9 @@
         [x] OR ou ||
         [x] Not ou !
 
+## Aula 05 - Coercao (Conversao) de tipos.
+    [x] Coercao Explicita (Manual)
+    [x] Coercao Implicita (Automatica)
+
+
 
