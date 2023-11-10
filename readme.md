@@ -89,3 +89,14 @@
         [x] for
         [x] for of
         [x] for in
+
+
+## Aula 10 - Arrays | Parte II - Métodos
+    [x] Fatiamento: slice
+    [x] Adicionando elementos: push | unshift
+    [x] Removendo elemento: pop | shift
+    [x] Concatenando arrays: concat
+    [x] Buscando elementos: indiceOf | lastIndexOf
+    [x] Descobrindo a existencia de um elemento: includes
+    [x] Invertendo arrays: reverse
+
