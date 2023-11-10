@@ -110,3 +110,18 @@
     [] Como adicionar um par de chave-valor?
     [] como remover um par de chave-valor?
     [] como percorrer?
+
+## Aula 13 - Integracao do JS com HTML
+    [x] Criar pagina html
+    [x] Criar uma pasta chamada js, para salvar todos os arquivos JavaScript
+    [x] Dentro da pasta JS, criar arquivo js
+        [x] Adicionar os seguintes comandos no arquivo JS.
+            - console.log('Exemplo de integracao do JS com o HTML');
+            - console.log('Integracao realizada com sucesso!');
+    [x] Integrar o arquivo Js
+        - no body da pagina html, incluir o seguinte comando:
+        - <script src="./js/script.js"></script>
+    [x] Executar a pagina html
+       [x]  Clicar com botao direito do mouse
+       [x]  Inspecionar Elementos
+       [x]  Aba Console
