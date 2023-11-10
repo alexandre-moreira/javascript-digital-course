@@ -74,3 +74,9 @@
         - const numero = Number(input.question('Digite um número: '))
 
     [x] Usando o laco de repeticao While.
+
+## Aula 08 - Estrutura de repeticao |  For
+    [x] Usando a estrutura de repeticao for:
+        [x] O Problema
+        [x] Acumulador
+        [x] Estrutura for
