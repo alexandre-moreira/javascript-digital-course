@@ -51,5 +51,8 @@
     [x] Coercao Explicita (Manual)
     [x] Coercao Implicita (Automatica)
 
-
+## Aula 06 - Estruturas condicionais
+    [] if
+    [] else if
+    [] else
 
