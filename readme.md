@@ -52,7 +52,25 @@
     [x] Coercao Implicita (Automatica)
 
 ## Aula 06 - Estruturas condicionais
-    [] if
-    [] else if
-    [] else
+    [x] if
+    [x] else if
+    [x] else
 
+## Aula 07 - Estrutura de repeticao |  while
+    [x] Instalar biblioteca para solicitar informacoes do usuario
+        - Abrir o terminal no vscode e digitar o comando abaixo:
+        - npm install readline-sync
+
+    [x] Importar a biblioteca no arquivo desejado, com o comando abaixo:
+        - const input = require('readline-sync')
+
+    [x] Solicitar dados do usuário, com o comando abaixo:
+        - const numero = input.question('Digite um número: ')
+
+        Obs: todo valor digitado no input, será do tipo string, mesmo que o dado digitado seja numero.
+        para realizar operacoes com os numero, antes voce deve converte-los, para o tipo desejado.
+        Como no exemplo abaixo:
+
+        - const numero = Number(input.question('Digite um número: '))
+
+    [x] Usando o laco de repeticao While.
