@@ -100,3 +100,9 @@
     [x] Descobrindo a existencia de um elemento: includes
     [x] Invertendo arrays: reverse
 
+## Aula 11 - Funcoes
+    [x] Definicao de funcao
+    [x] Como enviar parametro para as funcoes?
+    [x] Retorno da funcao
+
+
