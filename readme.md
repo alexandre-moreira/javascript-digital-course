@@ -105,4 +105,8 @@
     [x] Como enviar parametro para as funcoes?
     [x] Retorno da funcao
 
-
+## Aula 12 - Objetos
+    [] Como criar um objeto no JavaScript?
+    [] Como adicionar um par de chave-valor?
+    [] como remover um par de chave-valor?
+    [] como percorrer?
