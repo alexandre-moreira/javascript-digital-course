@@ -80,3 +80,12 @@
         [x] O Problema
         [x] Acumulador
         [x] Estrutura for
+
+## Aula 09 - Arrays | Parte I
+    [x] Como criar um array
+    [x] Como acessar os elementos do array
+    [x] Como obter o tamanho do array
+    [x] Percorrendo arrays.
+        [x] for
+        [x] for of
+        [x] for in
